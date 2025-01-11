@@ -1,0 +1,21 @@
+/* Custom styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f5f5f5;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Navbar brand logo styling */
+.nav-wrapper .brand-logo {
+    margin-left: 20px;
+}
+
+/* Navbar link styling */
+.nav-wrapper ul li a {
+    color: white;
+}
