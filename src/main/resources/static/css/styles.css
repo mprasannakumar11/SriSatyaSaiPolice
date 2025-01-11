@@ -1924,10 +1924,10 @@ table {
           text-align: left; }
           .header__logobox--title .title_name {
             display: block;
-            font-size: 3rem; }
+            font-size: 4rem; }
           .header__logobox--title .title_dept {
             display: block;
-            font-size: 2rem; } }
+            font-size: 3rem; } }
   .header__navigation {
     width: 100%;
     height: auto;
